@@ -5,7 +5,7 @@ In today's digital landscape, personalized experiences are paramount to engaging
 
 ## Summary of Approach:
 My process began by analyzing a dataset from Kaggle from an e-commerce store used for cosmetic products. It contained the user id, user sessions, product id, user events, brand names, prices, and category ids. The user events contained purchases, views, adds to cart, and removals from cart. 
-![Screenshot]<img width="973" alt="Datacategories" src="https://github.com/ginaiscoding/CartRecommendation/assets/104851148/91738991-f32a-4988-8f4c-f026984df160">
+<img width="973" alt="Datacategories" src="https://github.com/ginaiscoding/CartRecommendation/assets/104851148/91738991-f32a-4988-8f4c-f026984df160">
 
 Using this data I analyzed a selected user's interactions, maintaining a history of their session activity and item interactions. The system then recommends items based on the user's previous interactions, prioritizing items in the user's cart that haven't been purchased yet. The recommended items are stored, and the system keeps track of the last N items for each session, where N is a predefined parameter. 
 

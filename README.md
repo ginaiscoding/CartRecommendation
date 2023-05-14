@@ -17,3 +17,6 @@ This approach combines real-time data processing with a historical perspective o
 
 ## What I Learned:
 This was my first time ever creating a data pipeline that used real-time data processing. It was a lot harder than I expected and I learned a lot. One of the key learning points is how to handle real-time data using Kafka. This is essential in many modern applications, particularly in situations wehre decisions need to be made quickly based on the most recent data. I also learned the basic mechanics of building a personalized recommendation system and how to calculate the performance of its metrics. By calculating precision and recall, I can assess the effectiveness of my system. And although my numbers were not great, I am very pleased to have made a working model. All in all i learned a lot from this 'simple' data pipeline project and i couldnt have done it without the help of my project leader Leon Staubach. Thanks so much! 
+
+## Sources:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop

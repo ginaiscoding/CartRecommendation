@@ -1,4 +1,4 @@
-# CartRecommendation
+# Cart Recommendation Data Pipeline
 
 ## Motivation:
 In today's digital landscape, personalized experiences are paramount to engaging and retaining users. E-commerce, in particular, thrives on personalized recommendations - a mechanism that provides customers with suggestions based on their interests, browsing behavior, and purchase history. A well-crafted recommendation system can significantly boost user engagement, increase sales, and improve customer satisfaction. As an aspiring data engineer, I created this pipeline to get more experience in using real time data to make personalized and effective recommendations to users. 
